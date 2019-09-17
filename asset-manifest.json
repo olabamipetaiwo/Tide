@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tide/static/css/main.79cd2a08.chunk.css",
+    "main.js": "/tide/static/js/main.9f0be332.chunk.js",
+    "main.js.map": "/tide/static/js/main.9f0be332.chunk.js.map",
+    "runtime~main.js": "/tide/static/js/runtime~main.882ce3f1.js",
+    "runtime~main.js.map": "/tide/static/js/runtime~main.882ce3f1.js.map",
+    "static/js/2.707d7af9.chunk.js": "/tide/static/js/2.707d7af9.chunk.js",
+    "static/js/2.707d7af9.chunk.js.map": "/tide/static/js/2.707d7af9.chunk.js.map",
+    "index.html": "/tide/index.html",
+    "precache-manifest.8561b0464dd34e91bedec511d695f724.js": "/tide/precache-manifest.8561b0464dd34e91bedec511d695f724.js",
+    "service-worker.js": "/tide/service-worker.js",
+    "static/css/main.79cd2a08.chunk.css.map": "/tide/static/css/main.79cd2a08.chunk.css.map"
+  }
+}
